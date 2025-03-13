@@ -4,7 +4,7 @@
 
 ## Website
 
-Go to the [website](https://orbinuity.github.io/Orbinuity/BetterCropy.html) for downloads
+Go to the [website](https://orbinuity.github.io/BetterCropy) for downloads
 
 ## License
 
